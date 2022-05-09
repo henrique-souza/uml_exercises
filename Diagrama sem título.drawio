@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-09T00:00:40.323Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="qVFwynRFN1CQQT-ruKn0" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-09T00:06:46.084Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="rF7NmJdsOilqa2IE1rpI" version="18.0.2" type="github">
   <diagram id="bTRfIFRihIKzvD858gBq" name="SPSP">
     <mxGraphModel dx="1158" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,15 +56,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wS3j6SwrNlZnIO7xjSNi-18" value="Atendente / Gerente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="100" width="30" height="60" as="geometry" />
+          <mxGeometry x="230" y="130" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wS3j6SwrNlZnIO7xjSNi-25" value="Estende" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=1;dashed=1;dashPattern=1 4;" parent="1" edge="1">
           <mxGeometry x="-0.1833" width="160" relative="1" as="geometry">
             <mxPoint x="230" y="330" as="sourcePoint" />
-            <mxPoint x="220" y="120" as="targetPoint" />
+            <mxPoint x="220" y="150" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="170" y="180" />
-              <mxPoint x="180" y="160" />
+              <mxPoint x="160" y="180" />
+              <mxPoint x="180" y="170" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -95,14 +95,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wS3j6SwrNlZnIO7xjSNi-40" value="Gerente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;rounded=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="220" y="550" width="30" height="60" as="geometry" />
+          <mxGeometry x="210" y="690" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z1uBE7QwBVL69BETw96W-19" value="Estende" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=1;sketch=0;curved=0;dashed=1;dashPattern=1 4;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="220" y="540" as="sourcePoint" />
-            <mxPoint x="220" y="120" as="targetPoint" />
+            <mxPoint x="220" y="680" as="sourcePoint" />
+            <mxPoint x="220" y="150" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="190" y="360" />
+              <mxPoint x="170" y="270" />
               <mxPoint x="160" y="180" />
             </Array>
           </mxGeometry>
